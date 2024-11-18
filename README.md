@@ -1,6 +1,15 @@
 # Superstore-visualization
-This project showcases a comprehensive analysis of superstore sales, employing various visualization techniques to uncover insights into product performance, sales trends, and the relationship between sales and profit.
+The big Super-Market chains have been trying to understand different parameters to increase the profits for decades such as the predictive analysis of consumer behaviour. But to make important business decisions, they need to understand the basic monthly sales trends, relation between profit & sales, or the number of products sold is very important. This data can be anormous and only visualizations can help them gain insights from it.
 
+Therefore, in this project, I have analyzed a superstore sales data with various visualization techniques. Some of the business problems I have considered to resolve using these visualizations are -
+
+1. Identify high-demand products to avoid stockouts and low-demand products to reduce overstock and storage costs.   
+    
+2. Evaluate whether the monthly revenue goals are achieved and if external event (such as holidays or economical fluctuations) are affecting the business.    
+
+3. Decide whether to discontinue, promote, or reposition low-performing products (total sales < 20k)
+    
+4. Determine whether higher sales consistently lead to higher profits or if there are inefficiencies in pricing, cost structures, or other factors.
 
 ## **Visualizations and Analysis**
 
